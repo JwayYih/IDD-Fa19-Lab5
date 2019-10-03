@@ -9,6 +9,7 @@ Please put your sketches or designs for the Jack in the Box.
 ## Laser Cutting
 
 **a. Include a photo of your box here.**
+
 ![Box](https://github.com/JwayYih/IDD-Fa19-Lab5/blob/master/Box.JPG)
 
 **b. Include `.stl` files.**
